@@ -1,5 +1,3 @@
-// ПРОСТОЙ РАБОЧИЙ КОД ДЛЯ NDMI
-
 // 1. Определяем функцию расчета NDMI
 function getNDMISimple(geometry, startDate, endDate) {
   // Используем Landsat 8
